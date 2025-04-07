@@ -1,0 +1,19 @@
+{
+	"layers": [
+		{
+			"name": "Entidades",
+			"geojson": "entidades.geojson",
+			"sld": "entidades.sld",
+			"popup": "<form><div class='popup-form-item'><span class='popup-label'>Nombre: </span><span>{Nombre}</span></div><div class='popup-form-item'><span class='popup-label'>Dirección: </span><span>{Dirección}</span></div><div class='popup-form-item'><span class='popup-label'>Tipo: </span><span>{Tipo}</span></div><div class='popup-form-item'></div><div class='popup-form-item'><a href='./ficha/{fid}' target='_blank' rel='noopener noreferrer'>Abrir ficha</a></div></form>",
+			"view_labels_scales": {
+				"min": 1,
+				"max": 10000
+			}
+		},
+		{
+			"name": "Término municipal",
+			"geojson": "término_municipal.geojson",
+			"sld": "término_municipal.sld"
+		}
+	]
+}

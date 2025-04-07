@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapa Leaflet con WMTS en EPSG:25830</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.7.5/proj4.js"></script>
+    <script src="https://unpkg.com/proj4leaflet"></script>
+</head>
+<body>
+    <div id="map" style="width: 100%; height: 600px;"></div>
+    <script>
+        // Definir la proyección EPSG:25830
+        var crs = new L.Proj.CRS('EPSG:25830',
+            '+proj=utm +zone=30 +ellps=GRS80 +units=m +no_defs',
+            {
+                resolutions: [559082264.029131, 279541132.014565, 139770566.007282, 69885283.003641, 34942641.501820,
+                              17471320.750910, 8735660.375455, 4367830.187727, 2183915.093864, 1091957.546932, 545978.773466,
+                              272989.386733, 136494.693366, 68247.346683, 34123.673341, 17061.836671],
+                origin: [480408, 4861892],
+                bounds: L.bounds([480408, 4599748], [742552, 4861892])
+            }
+        );
+		/*
+		<ows:LowerCorner>480408 4599748</ows:LowerCorner>
+<ows:UpperCorner>742552 4861892</ows:UpperCorner>
+*/
+
+        // Crear el mapa
+        var map = L.map('map', {
+            crs: crs,
+            center: [42.8, -1.6],
+            zoom: 10
+        });
+
+        // Crear la capa WMTS
+        var tileUrl = 'https://idena.navarra.es/ogc/wmts/mapabase/default/epsg25830/{TileMatrix}/{TileRow}/{TileCol}.png';
+        var tileLayer = L.TileLayer.extend({
+            initialize: function (url, options) {
+                L.TileLayer.prototype.initialize.call(this, url, options);
+            }
+        });
+
+        var wmtsLayer = new tileLayer(tileUrl, {
+            tileSize: 256,
+            minZoom: 0,
+            maxZoom: 17,
+            zoomOffset: 0,
+            attribution: 'Servicio proporcionado por el Gobierno de Navarra'
+        });
+
+        wmtsLayer.addTo(map);
+    </script>
+</body>
+</html>
