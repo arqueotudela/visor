@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ficha de Intervención Arqueológica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .section {
+            margin-top: 20px;
+            padding: 15px;
+            border-left: 5px solid #007bff;
+            background: #e9f2ff;
+            border-radius: 5px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+
+        .data {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .mySlides {
+            display: none
+        }
+
+        img {
+            vertical-align: middle;
+        }
+
+        /* Slideshow container */
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+
+        /* Next & previous buttons */
+        .prev,
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            padding: 16px;
+            margin-top: -22px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+
+        /* Position the "next button" to the right */
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        }
+
+        /* On hover, add a black background color with a little bit see-through */
+        .prev:hover,
+        .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+
+        .active,
+        .dot:hover {
+            background-color: #717171;
+        }
+
+        /* Fading animation */
+        .fade {
+            animation-name: fade;
+            animation-duration: 1.5s;
+        }
+
+        @keyframes fade {
+            from {
+                opacity: .4
+            }
+
+            to {
+                opacity: 1
+            }
+        }
+
+        /* On smaller screens, decrease text size */
+        @media only screen and (max-width: 300px) {
+
+            .prev,
+            .next,
+            .text {
+                font-size: 11px
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Ficha de Intervención Arqueológica</h1>
+
+        <div class="section">
+            <p class="data">Nº INTERVENCIÓN: <span>1</span></p>
+            <p class="data">DENOMINACIÓN INTERVENCIÓN: <span>Intervención 1</span></p>
+            <p class="data">N DE SIGLA: <span>4</span></p>
+            <p class="data">DIRECCIÓN POSTAL: <span>Calle de Prueba Nº 12</span></p>
+            <p class="data">PARCELA CATASTRAL:</p>
+            <ul>
+                <li>Nº Parcela: 1041 | Cod. Municipio: 232 | Cod. Polígono: 5</li>
+                <li>Nº Parcela: 1499 | Cod. Municipio: 232 | Cod. Polígono: 5</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <p class="data">TIPO DE ACTUACIÓN: <span>Seguimiento arqueológico</span></p>
+            <p class="data">FECHA DE LA ACTUACIÓN: <span>18/03/2025</span></p>
+        </div>
+
+        <div class="section">
+            <p class="data">CONTEXTOS CULTURALES:</p>
+            <ul>
+                <li>Andalusí</li>
+                <li>Medieval Cristiano</li>
+                <li>Moderno</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <p class="data">DATOS ADMINISTRATIVOS:</p>
+            <ul>
+                <li>Dirección: Juan Martínez</li>
+                <li>Promotor: Luis Giménez</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <p class="data">DESCRIPCIÓN DE LOS RESTOS APARECIDOS:</p>
+            <p>Se hallaron restos de una muralla medieval y varias estructuras domésticas de época andalusí.</p>
+        </div>
+
+        <div class="section">
+            <p class="data">TIPO DE RESTOS POR FASES CULTURALES:</p>
+            <ul>
+                <li>Fortificación: Muralla medieval</li>
+                <li>Espacio doméstico: Viviendas andalusíes</li>
+                <li>Espacio público: Baños árabes</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <p class="data">GRADO PATRIMONIAL:</p>
+            <p>BIC (Bien de Interés Cultural)</p>
+        </div>
+
+        <div class="section">
+            <p class="data">UBICACIÓN DE LOS MATERIALES:</p>
+            <ul>
+                <li>Depósito permanente: Museo Arqueológico de Tudela</li>
+                <li>Depósito temporal: Laboratorio de análisis</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <p class="data">¿SE CONSERVAN RESTOS?: <span>SI</span></p>
+            <p class="data">Detalles: Restos visibles en el área delimitada de la plaza.</p>
+        </div>
+
+        <div class="section">
+            <p class="data">Imágenes de la Intervención:</p>
+            <div class="slideshow-container">
+
+                <div class="mySlides fade">
+                    <img src="../data/media/intervencion 1/ROLLO1-32.JPG" style="width:100%">
+                </div>
+
+                <div class="mySlides fade">
+                    <img src="../data/media/intervencion 1/ROLLO1-33.JPG" style="width:100%">
+                </div>
+
+                <div class="mySlides fade">
+                    <img src="../data/media/intervencion 1/ROLLO1-34.JPG" style="width:100%">
+                </div>
+
+                <a class="prev" onclick="plusSlides(-1)">❮</a>
+                <a class="next" onclick="plusSlides(1)">❯</a>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("mySlides");
+            if (n > slides.length) { slideIndex = 1 }
+            if (n < 1) { slideIndex = slides.length }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slides[slideIndex - 1].style.display = "block";
+        }
+    </script>
+</body>
+
+</html>

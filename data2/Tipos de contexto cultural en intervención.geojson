@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "name": "Tipos de contexto cultural en intervención",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 2,
+                "numero_int": 1,
+                "cod_con_cul": "AND_MOZ"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 3,
+                "numero_int": 1,
+                "cod_con_cul": "AND_MUS"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 4,
+                "numero_int": 2,
+                "cod_con_cul": "MED_MUD"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 5,
+                "numero_int": 3,
+                "cod_con_cul": "MED_CRI"
+            },
+            "geometry": null
+        }
+    ]
+}

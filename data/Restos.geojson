@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "name": "Restos",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1,
+                "id_parcela": "1499",
+                "descrip": "Estos restos constan del 1000 a.C.",
+                "contexto": "Edad del Bronce",
+                "tipo_resto": "Espacio producción artesanal"
+            },
+            "geometry": null
+        }
+    ]
+}

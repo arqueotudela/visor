@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Documentos asociados",
+"features": [
+{ "type": "Feature", "properties": { "fid": 2, "nombre": "Foto intervención 1", "descrip": "Foto intervención 1", "ruta_fichero": "media/intervencion 3/Fotos intervención/ROLLO1-32.JPG", "id_intervencion": "Intervención 3", "tipo": "Fotos intervención " }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 3, "nombre": "Foto intervención 2", "descrip": "Foto intervención 2", "ruta_fichero": "media/intervencion 3/Fotos intervención/ROLLO1-33.JPG", "id_intervencion": "Intervención 3", "tipo": "Fotos intervención " }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 4, "nombre": "Foto intervención 3", "descrip": "Foto intervención 3", "ruta_fichero": "media/intervencion 3/Fotos intervención/ROLLO1-34.JPG", "id_intervencion": "Intervención 3", "tipo": "Fotos intervención " }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 5, "nombre": "Foto hemeroteca 1", "descrip": "Foto hemeroteca 1", "ruta_fichero": "media/intervencion 3/Hemeroteca/MERCADAL_2000-004.jpg", "id_intervencion": "Intervención 3", "tipo": "Hemeroteca" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 6, "nombre": "Foto hemeroteca 2", "descrip": "Foto hemeroteca 2", "ruta_fichero": "media/intervencion 3/Hemeroteca/Prensa_MERCADAL_2000.jpg", "id_intervencion": "Intervención 3", "tipo": "Hemeroteca" }, "geometry": null }
+]
+}

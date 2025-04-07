@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "name": "Documentos administrativos",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1,
+                "numero_int": 1,
+                "tipo": "Expediente obra municipal",
+                "ruta": null,
+                "publico": "false"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 2,
+                "numero_int": 2,
+                "tipo": "Solicitud",
+                "ruta": null,
+                "publico": "false"
+            },
+            "geometry": null
+        }
+    ]
+}

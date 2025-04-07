@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "name": "Parcelas intervenciones",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1,
+                "id_intervencion": "Intervención 1",
+                "num_parcela": "1499",
+                "cod_muni": "232",
+                "cod_poligono": "5",
+                "ocupacion": "100"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 3,
+                "id_intervencion": "Intervención 2",
+                "num_parcela": "1721",
+                "cod_muni": "232",
+                "cod_poligono": "5",
+                "ocupacion": "50"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 4,
+                "id_intervencion": "Intervención 2",
+                "num_parcela": "1122",
+                "cod_muni": "232",
+                "cod_poligono": "5",
+                "ocupacion": "733"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 5,
+                "id_intervencion": "Intervención 1",
+                "num_parcela": "1041",
+                "cod_muni": "232",
+                "cod_poligono": "5",
+                "ocupacion": "14"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 6,
+                "id_intervencion": "Intervención 3",
+                "num_parcela": "774",
+                "cod_muni": "232",
+                "cod_poligono": "5",
+                "ocupacion": "100"
+            },
+            "geometry": null
+        }
+    ]
+}

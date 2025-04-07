@@ -1,0 +1,70 @@
+{
+    "type": "FeatureCollection",
+    "name": "Restos en intervención",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 1,
+                "numero_int": 1,
+                "conserva_restos": "true",
+                "restos_in_situ": "true",
+                "restos_visibles": "true",
+                "restos_visitables": "false",
+                "res_observaci": "Buen estado",
+                "tipo_resto": "ESP_DOM",
+                "subtipo_resto": "BAÑO_ARAB",
+                "fase_hist": "AND_MOZ"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 2,
+                "numero_int": 1,
+                "conserva_restos": "true",
+                "restos_in_situ": "true",
+                "restos_visibles": "true",
+                "restos_visitables": "false",
+                "res_observaci": "Buen estado",
+                "tipo_resto": "ARTE",
+                "subtipo_resto": "PINT",
+                "fase_hist": "AND_MUS"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 3,
+                "numero_int": 2,
+                "conserva_restos": "true",
+                "restos_in_situ": "true",
+                "restos_visibles": "false",
+                "restos_visitables": "false",
+                "res_observaci": null,
+                "tipo_resto": "ARTE",
+                "subtipo_resto": "PINT",
+                "fase_hist": "MED_MUD"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 4,
+                "numero_int": 3,
+                "conserva_restos": "true",
+                "restos_in_situ": "true",
+                "restos_visibles": "true",
+                "restos_visitables": "true",
+                "res_observaci": null,
+                "tipo_resto": "INFRA",
+                "subtipo_resto": "INFRASTRUCT",
+                "fase_hist": "MED_CRI"
+            },
+            "geometry": null
+        }
+    ]
+}

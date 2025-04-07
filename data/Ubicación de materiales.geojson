@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Ubicación de materiales",
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "ubicacion": "(Depósito permanente)", "descrip": "Están todos los materiales." }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 2, "ubicacion": "(Falta por depositar)", "descrip": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 3, "ubicacion": "(Depósito temporal)", "descrip": null }, "geometry": null }
+]
+}

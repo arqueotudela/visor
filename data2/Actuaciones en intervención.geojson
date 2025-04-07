@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "name": "Actuaciones en intervención",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 3,
+                "numero_int": 1,
+                "cod_act": "HALL_AIS"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 4,
+                "numero_int": 1,
+                "cod_act": "SOND"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 5,
+                "numero_int": 2,
+                "cod_act": "HALL_AIS"
+            },
+            "geometry": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "fid": 6,
+                "numero_int": 3,
+                "cod_act": "SEG_ARQ"
+            },
+            "geometry": null
+        }
+    ]
+}

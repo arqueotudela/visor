@@ -313,6 +313,7 @@ L.SLDStyler = L.Class.extend({
             case 'MultiPolygon':
                return matchingRule.polygonSymbolizer;
             case 'Point':
+            case "MultiPoint":
                return matchingRule.pointSymbolizer;
          }
          return this.options.unmatchedStyle;

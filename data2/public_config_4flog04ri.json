@@ -8,6 +8,17 @@
 			"view_labels_scales": {
 				"min": 1,
 				"max": 10000
+			},
+			"filters": {
+				"data_layers": [
+					"Intervenciones.geojson",
+					"Restos en intervención.geojson",
+					"Tipos de contexto cultural en intervención.geojson",
+					"Subtipos de resto.geojson",			
+					"Tipos de restos.geojson",
+					"Tipos de contexto cultural.geojson",
+					"Tipo de fase.geojson"
+				]
 			}
 		},
 		{
