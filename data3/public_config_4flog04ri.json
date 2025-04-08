@@ -4,6 +4,7 @@
 			"name": "Puntos de intervención",
 			"geojson": "Puntos de intervención.geojson",
 			"sld": "Puntos de intervención.sld",
+			"popup": "popup.hbs",
 			"visible": true,
 			"filters": {
 				"data_layers": [
