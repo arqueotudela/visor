@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Restos en intervención",
-"features": [
-{ "type": "Feature", "properties": { "fid": 11, "numero_int": 4, "conserva_restos": 1, "restos_in_situ": 1, "restos_visibles": 1, "restos_visitables": 1, "res_observaci": null, "tipo_resto": "FORT", "subtipo_resto": "CAST", "fase_hist": "MODERN" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 12, "numero_int": 13, "conserva_restos": 1, "restos_in_situ": 0, "restos_visibles": 0, "restos_visitables": 0, "res_observaci": null, "tipo_resto": "VIV", "subtipo_resto": "DOMU", "fase_hist": "CEL" }, "geometry": null }
-]
-}
