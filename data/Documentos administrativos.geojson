@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Documentos administrativos",
+"features": [
+{ "type": "Feature", "properties": { "fid": 8, "numero_int": 27, "tipo": "Informe de intervención-Inventario materiales", "ruta": "./media/27/administrativos/Informe de intervención-Inventario materiales/privado/INT_27_InformeExcavacion_Mercadal_2000.pdf", "publico": 0 }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 9, "numero_int": 27, "tipo": "Resolución permiso Gobierno de Navarra", "ruta": "./media/27/administrativos/Resolución permiso Gobierno de Navarra/privado/resolucion permiso excavacion.pdf", "publico": 0 }, "geometry": null }
+]
+}

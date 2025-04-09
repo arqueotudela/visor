@@ -1,19 +1,50 @@
 {
 	"layers": [
 		{
+			"name": "Puntos de intervención",
+			"geojson": "Puntos de intervención.geojson",
+			"sld": "Puntos de intervención.sld",
+			"popup": "popup.hbs",
+			"visible": true,
+			"filters": {
+				"data_layers": [
+					"Intervenciones.geojson",
+					"Restos en intervención.geojson",
+					"Tipos de contexto cultural en intervención.geojson",
+					"Subtipo de restos.geojson",			
+					"Tipos de restos.geojson",
+					"Tipos de contexto cultural.geojson",
+					"Tipo de fase.geojson"
+				]
+			}
+		},
+		{
 			"name": "Intervenciones",
 			"geojson": "Intervenciones.geojson",
 			"sld": "Intervenciones.sld",
-			"popup": "<form><div class='popup-form-item'><span class='popup-label'>Nº de intervención: </span><span>{fid}</span></div><div class='popup-form-item'><span class='popup-label'>Denominación: </span><span>{denominacion}</span></div><div class='popup-form-item'><span class='popup-label'>Siglas: </span><span>{siglas}</span></div><div class='popup-form-item'><span class='popup-label'>Actuación: </span><span>{actuacion}</span></div><div class='popup-form-item'></div><div class='popup-form-item'><a href='./ficha/{fid}' target='_blank' rel='noopener noreferrer'>Abrir ficha</a></div></form>",
+			"popup": "popup.hbs",
+			"visible": true,
 			"view_labels_scales": {
 				"min": 1,
 				"max": 10000
+			},
+			"filters": {
+				"data_layers": [
+					"Intervenciones.geojson",
+					"Restos en intervención.geojson",
+					"Tipos de contexto cultural en intervención.geojson",
+					"Subtipo de restos.geojson",			
+					"Tipos de restos.geojson",
+					"Tipos de contexto cultural.geojson",
+					"Tipo de fase.geojson"
+				]
 			}
 		},
 		{
 			"name": "Término municipal",
 			"geojson": "Término municipal.geojson",
-			"sld": "Término municipal.sld"
+			"sld": "Término municipal.sld",
+			"visible": true
 		}
 	]
 }
