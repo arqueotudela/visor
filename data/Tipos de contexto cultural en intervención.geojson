@@ -1,24 +1,10 @@
 {
-    "type": "FeatureCollection",
-    "name": "Tipos de contexto cultural en intervención",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 12,
-                "numero_int": 4,
-                "cod_con_cul": "MODE"
-            },
-            "geometry": null
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "fid": 13,
-                "numero_int": 13,
-                "cod_con_cul": "CELT"
-            },
-            "geometry": null
-        }
-    ]
+"type": "FeatureCollection",
+"name": "Tipos de contexto cultural en intervención",
+"features": [
+{ "type": "Feature", "properties": { "fid": 12, "numero_int": 4, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 13, "numero_int": 13, "cod_con_cul": "CELT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 14, "numero_int": 27, "cod_con_cul": "ROMA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 15, "numero_int": 27, "cod_con_cul": "AND_MOZ" }, "geometry": null }
+]
 }

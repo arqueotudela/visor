@@ -51,9 +51,9 @@
 			"visible": true
 		},
 		{
-			"name": "Límite de núcleo de población",
-			"geojson": "Límite de núcleo de población.geojson",
-			"sld": "Límite de núcleo de población.sld",
+			"name": "Casco urbano",
+			"geojson": "Casco urbano.geojson",
+			"sld": "Casco urbano.sld",
 			"visible": true
 		}
 	]
