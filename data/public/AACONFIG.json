@@ -8,7 +8,11 @@
 			"visible": true,
 			"view_labels_scales": {
 				"min": 1,
+<<<<<<< HEAD:data/public/AACONFIG.json
 				"max": 10000
+=======
+				"max": 5000
+>>>>>>> 362d41aa71621bfd969f24cbdf302371f84dc5f7:data/public_config_4flog04ri.json
 			},
 			"filters": {
 				"data_layers": [
