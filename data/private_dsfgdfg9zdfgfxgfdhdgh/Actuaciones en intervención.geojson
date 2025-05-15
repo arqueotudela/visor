@@ -6,6 +6,8 @@
 { "type": "Feature", "properties": { "fid": 2, "numero_int": 27, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 3, "numero_int": 66, "cod_act": "EXCA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 4, "numero_int": 81, "cod_act": "EXCA" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 5, "numero_int": 81, "cod_act": "SOND" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 5, "numero_int": 81, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 6, "numero_int": 55555, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 7, "numero_int": 55555, "cod_act": "HALL_AIS" }, "geometry": null }
 ]
 }
