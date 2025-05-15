@@ -50,6 +50,7 @@
 			"name": "Zonas PEPRI",
 			"geojson": "Zonas PEPRI.geojson",
 			"sld": "Zonas PEPRI.sld",
+			"popup": "popupZonaPepri.hbs",
 			"visible": true
 		},
 		{
