@@ -273,10 +273,12 @@ L.SLDStyler = L.Class.extend({
             return true;
          }
       }, this);
-
       return matchingRule;
    },
    styleFn: function (indexOrName, feature) {
+      console.log("AAA indexOrName", indexOrName);
+      console.log("AAA feature", feature);
+      console.log("AAA this.featureTypeStylesNameMap", this.featureTypeStylesNameMap);
       var matchingRule = null;
 
       if (typeof (indexOrName) !== 'undefined') {
@@ -290,7 +292,7 @@ L.SLDStyler = L.Class.extend({
             return {};
          }
 
-         if(indexOrName in this.featureTypeStyles) {
+         if(indexOrName in this.featureTypeStyles) {            
             matchingRule = this.matchFn(
                this.featureTypeStyles[indexOrName],
                feature
@@ -303,7 +305,8 @@ L.SLDStyler = L.Class.extend({
          this.featureTypeStyles.some(function (featureTypeStyle) {
             matchingRule = this.matchFn(featureTypeStyle, feature)
          }, this);
-
+         console.log("AAA matchingRule", matchingRule);
+         console.log("AAA feature.geometry.type", feature.geometry.type);
       if (matchingRule != null) {
          switch (feature.geometry.type) {
             case 'LineString':
@@ -311,6 +314,7 @@ L.SLDStyler = L.Class.extend({
                return matchingRule.lineSymbolizer;
             case 'Polygon':
             case 'MultiPolygon':
+               console.log("AAA matchingRule.polygonSymbolizer", matchingRule.polygonSymbolizer);
                return matchingRule.polygonSymbolizer;
             case 'Point':
             case "MultiPoint":
