@@ -2,12 +2,11 @@
 "type": "FeatureCollection",
 "name": "Media piezas destacadas",
 "features": [
-{ "type": "Feature", "properties": { "fid": 41, "num_pieza": 1, "tipo": "Foto", "ruta": "./media/10/piezas_destacadas/1/Foto/público/plato.jpg", "publico": 1, "url": null }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 42, "num_pieza": 1, "tipo": "Dibujo", "ruta": "./media/10/piezas_destacadas/1/Dibujo/público/plato.jpg", "publico": 1, "url": null }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 43, "num_pieza": 1000, "tipo": "Dibujo", "ruta": "./media/55555/piezas_destacadas/1000/Dibujo/público/Foto 3   7 Terraplenado sobre el terreno.jpg", "publico": 1, "url": null }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 44, "num_pieza": 2, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/2/Foto/público/1824a.jpg", "publico": 1, "url": null }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 45, "num_pieza": 2, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/2/Dibujo/público/1824.png", "publico": 1, "url": null }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 46, "num_pieza": 3, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/3/Foto/público/683.jpg", "publico": 1, "url": null }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 47, "num_pieza": 3, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/3/Dibujo/público/683.png", "publico": 1, "url": null }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 35, "num_pieza": 1, "tipo": "Foto", "ruta": "./media/10/piezas_destacadas/1/Foto/público/plato.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 36, "num_pieza": 1, "tipo": "Dibujo", "ruta": "./media/10/piezas_destacadas/1/Dibujo/público/plato.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 37, "num_pieza": 2, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/2/Foto/público/1824a.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 38, "num_pieza": 2, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/2/Dibujo/público/1824.png", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 39, "num_pieza": 3, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/3/Foto/público/683.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 40, "num_pieza": 3, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/3/Dibujo/público/683.png", "publico": 1, "url": null }, "geometry": null }
 ]
 }
