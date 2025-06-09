@@ -6,6 +6,23 @@
 { "type": "Feature", "properties": { "fid": 2, "numero_int": 27, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 3, "numero_int": 66, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 4, "numero_int": 81, "cod_con_cul": "MED_CRI" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 5, "numero_int": 81, "cod_con_cul": "MODE" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 5, "numero_int": 81, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 6, "numero_int": 4, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 7, "numero_int": 5, "cod_con_cul": "AND_JUD" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 8, "numero_int": 5, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 9, "numero_int": 6, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 10, "numero_int": 6, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 11, "numero_int": 7, "cod_con_cul": "E_H_I" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 12, "numero_int": 7, "cod_con_cul": "ROMA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 13, "numero_int": 7, "cod_con_cul": "VISI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 14, "numero_int": 7, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 15, "numero_int": 7, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 16, "numero_int": 7, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 17, "numero_int": 7, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 18, "numero_int": 8, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 19, "numero_int": 8, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 20, "numero_int": 8, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 21, "numero_int": 9, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 22, "numero_int": 9, "cod_con_cul": "CONT" }, "geometry": null }
 ]
 }

@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "name": "Fotogrametría",
 "features": [
-{ "type": "Feature", "properties": { "fid": 1, "nombre": "Bodega", "url": "https://sketchfab.com/3d-models/bodega-de-piedra-y-fuente-casa-3-sector-2-8a31f68e5ecb40ab9195983c70f9a33a", "numero_int": 81, "publico": 1 }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 2, "nombre": "Prueba", "url": "https://sketchfab.com/3d-models/cuenco-carenado-ceramica-bajomedieval-3427a81d223940b7ba8380b36e1f6d76", "numero_int": 81, "publico": 1 }, "geometry": null }
+
 ]
 }
