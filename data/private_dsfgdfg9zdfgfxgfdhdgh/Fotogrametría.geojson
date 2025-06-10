@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "name": "Fotogrametría",
 "features": [
-
+{ "type": "Feature", "properties": { "fid": 1, "nombre": "Sector Pozos Cerro Santa Bárbara", "url": "https://sketchfab.com/3d-models/sector-pozos-cerro-santa-barbara-tudela-1c277b5148284176b3eedc5ff46a4f58", "numero_int": 13, "publico": 1, "descripcion": "Aquí va una descripción" }, "geometry": null }
 ]
 }
