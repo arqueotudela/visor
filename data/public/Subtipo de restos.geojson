@@ -42,6 +42,7 @@
 { "type": "Feature", "properties": { "fid": 38, "cod_subtipo_rest": "TEMP", "nom_subtipo_res": "Templos", "subtipo_tipo": "EDI_REL" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 39, "cod_subtipo_rest": "TORR", "nom_subtipo_res": "Torre", "subtipo_tipo": "FORT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 40, "cod_subtipo_rest": "TORON", "nom_subtipo_res": "Torreón", "subtipo_tipo": "FORT" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 41, "cod_subtipo_rest": "ZAGU", "nom_subtipo_res": "Zaguán", "subtipo_tipo": "ESP_DOM" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 41, "cod_subtipo_rest": "ZAGU", "nom_subtipo_res": "Zaguán", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 42, "cod_subtipo_rest": "MUR", "nom_subtipo_res": "Muro", "subtipo_tipo": "FORT" }, "geometry": null }
 ]
 }
