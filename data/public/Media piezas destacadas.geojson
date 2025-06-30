@@ -2,11 +2,11 @@
 "type": "FeatureCollection",
 "name": "Media piezas destacadas",
 "features": [
-{ "type": "Feature", "properties": { "fid": 84, "num_pieza": 1, "tipo": "Foto", "ruta": "./media/10/piezas_destacadas/1/Foto/público/plato.jpg", "publico": 1, "url": "https://multimedia.arqueotudela.workers.dev/?id=1uyqLmmGsTXVBDJ2wyhlxwCK4j0G7YMra" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 85, "num_pieza": 1, "tipo": "Dibujo", "ruta": "./media/10/piezas_destacadas/1/Dibujo/público/plato.jpg", "publico": 1, "url": "https://multimedia.arqueotudela.workers.dev/?id=1pvtj9LgcKp9tsed10lMNQ9ZJHiYiQmj-" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 86, "num_pieza": 2, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/2/Foto/público/1824a.jpg", "publico": 1, "url": "https://multimedia.arqueotudela.workers.dev/?id=1tLiNJV57KH-NMh0qr7hapKtfV73AeTHW" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 87, "num_pieza": 2, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/2/Dibujo/público/1824.png", "publico": 1, "url": "https://multimedia.arqueotudela.workers.dev/?id=1DeRzYLuKGtxnHGxzyiM6vhEFAvf7GNzf" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 88, "num_pieza": 3, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/3/Foto/público/683.jpg", "publico": 1, "url": "https://multimedia.arqueotudela.workers.dev/?id=1bQ-10L49Wz_klNfSUi5Yp059byy1dc66" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 89, "num_pieza": 3, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/3/Dibujo/público/683.png", "publico": 1, "url": "https://multimedia.arqueotudela.workers.dev/?id=1zdRem4GgmdrzZWlyDgqlkftXl_cxwl05" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 96, "num_pieza": 1, "tipo": "Foto", "ruta": "./media/10/piezas_destacadas/1/Foto/público/plato.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 97, "num_pieza": 1, "tipo": "Dibujo", "ruta": "./media/10/piezas_destacadas/1/Dibujo/público/plato.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 98, "num_pieza": 2, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/2/Foto/público/1824a.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 99, "num_pieza": 2, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/2/Dibujo/público/1824.png", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 100, "num_pieza": 3, "tipo": "Foto", "ruta": "./media/81/piezas_destacadas/3/Foto/público/683.jpg", "publico": 1, "url": null }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 101, "num_pieza": 3, "tipo": "Dibujo", "ruta": "./media/81/piezas_destacadas/3/Dibujo/público/683.png", "publico": 1, "url": null }, "geometry": null }
 ]
 }

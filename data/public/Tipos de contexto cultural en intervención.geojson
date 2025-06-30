@@ -8,7 +8,7 @@
 { "type": "Feature", "properties": { "fid": 4, "numero_int": 81, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 5, "numero_int": 81, "cod_con_cul": "MODE" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 6, "numero_int": 4, "cod_con_cul": "CONT" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 7, "numero_int": 5, "cod_con_cul": "AND_JUD" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 7, "numero_int": 5, "cod_con_cul": "MED_JUD" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 8, "numero_int": 5, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 9, "numero_int": 6, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 10, "numero_int": 6, "cod_con_cul": "CONT" }, "geometry": null },
@@ -124,6 +124,8 @@
 { "type": "Feature", "properties": { "fid": 120, "numero_int": 45, "cod_con_cul": "ROMA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 121, "numero_int": 45, "cod_con_cul": "AND_MUS" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 122, "numero_int": 45, "cod_con_cul": "AND_JUD" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 123, "numero_int": 45, "cod_con_cul": "CONT" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 123, "numero_int": 45, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 124, "numero_int": 3, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 125, "numero_int": 3, "cod_con_cul": "MODE" }, "geometry": null }
 ]
 }

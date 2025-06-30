@@ -63,6 +63,8 @@
 { "type": "Feature", "properties": { "fid": 59, "numero_int": 42, "cod_act": "SEG_ARQ" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 60, "numero_int": 43, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 61, "numero_int": 44, "cod_act": "EXCA" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 62, "numero_int": 45, "cod_act": "SOND" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 62, "numero_int": 45, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 63, "numero_int": 3, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 64, "numero_int": 5, "cod_act": "PUES_VALOR" }, "geometry": null }
 ]
 }

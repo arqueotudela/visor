@@ -43,6 +43,25 @@
 { "type": "Feature", "properties": { "fid": 39, "cod_subtipo_rest": "TORR", "nom_subtipo_res": "Torre", "subtipo_tipo": "FORT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 40, "cod_subtipo_rest": "TORON", "nom_subtipo_res": "Torreón", "subtipo_tipo": "FORT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 41, "cod_subtipo_rest": "ZAGU", "nom_subtipo_res": "Zaguán", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 42, "cod_subtipo_rest": "MUR", "nom_subtipo_res": "Muro", "subtipo_tipo": "FORT" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 42, "cod_subtipo_rest": "MUR", "nom_subtipo_res": "Muro", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 43, "cod_subtipo_rest": "ENT_DISP", "nom_subtipo_res": "Enterramiento disperso", "subtipo_tipo": "ESP_FUN" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 44, "cod_subtipo_rest": "POZ_CIE", "nom_subtipo_res": "Pozo ciego", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 45, "cod_subtipo_rest": "POZ_AGU", "nom_subtipo_res": "Pozo agua", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 46, "cod_subtipo_rest": "ENTER", "nom_subtipo_res": "Enterramientos", "subtipo_tipo": "ESP_FUN" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 47, "cod_subtipo_rest": "ADAR", "nom_subtipo_res": "Adarve", "subtipo_tipo": "ESP_PUB" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 48, "cod_subtipo_rest": "HOR_CAL", "nom_subtipo_res": "Horno de cal", "subtipo_tipo": "ESP_ART" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 49, "cod_subtipo_rest": "SOTA", "nom_subtipo_res": "Sótano", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 50, "cod_subtipo_rest": "ALBE", "nom_subtipo_res": "Alberca", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 52, "cod_subtipo_rest": "ERMIT", "nom_subtipo_res": "Ermita", "subtipo_tipo": "EDI_REL" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 53, "cod_subtipo_rest": "NECRO", "nom_subtipo_res": "Necrópolis", "subtipo_tipo": "ESP_FUN" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 54, "cod_subtipo_rest": "DEP", "nom_subtipo_res": "Depósito", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 55, "cod_subtipo_rest": "CARBO", "nom_subtipo_res": "Carbonera", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 56, "cod_subtipo_rest": "TRUJ", "nom_subtipo_res": "Trujal", "subtipo_tipo": "ESP_ART" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 57, "cod_subtipo_rest": "FOTI", "nom_subtipo_res": "Fortín", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 58, "cod_subtipo_rest": "HUMI", "nom_subtipo_res": "Humilladero", "subtipo_tipo": "EDI_REL" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 59, "cod_subtipo_rest": "ADUA", "nom_subtipo_res": "Aduana", "subtipo_tipo": "ESP_PUB" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 60, "cod_subtipo_rest": "TRIN", "nom_subtipo_res": "Trinchera", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 61, "cod_subtipo_rest": "LAGA", "nom_subtipo_res": "Lagar", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 62, "cod_subtipo_rest": "POZ_CONTR", "nom_subtipo_res": "Pozo contrapeso", "subtipo_tipo": "FORT" }, "geometry": null }
 ]
 }
