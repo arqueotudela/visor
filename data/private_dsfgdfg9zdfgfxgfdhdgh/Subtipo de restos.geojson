@@ -32,7 +32,7 @@
 { "type": "Feature", "properties": { "fid": 28, "cod_subtipo_rest": "MEZQ", "nom_subtipo_res": "Mezquita", "subtipo_tipo": "EDI_REL" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 29, "cod_subtipo_rest": "MONA", "nom_subtipo_res": "Monasterios", "subtipo_tipo": "EDI_REL" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 30, "cod_subtipo_rest": "MURA", "nom_subtipo_res": "Muralla", "subtipo_tipo": "FORT" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 31, "cod_subtipo_rest": "PALA", "nom_subtipo_res": "Palacio", "subtipo_tipo": "VIV" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 31, "cod_subtipo_rest": "PALA", "nom_subtipo_res": "Palacio", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 32, "cod_subtipo_rest": "PATI", "nom_subtipo_res": "Patio", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 33, "cod_subtipo_rest": "PLAZ", "nom_subtipo_res": "Plaza", "subtipo_tipo": "ESP_PUB" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 34, "cod_subtipo_rest": "POZO", "nom_subtipo_res": "Pozo", "subtipo_tipo": "INFRA" }, "geometry": null },
@@ -62,6 +62,9 @@
 { "type": "Feature", "properties": { "fid": 59, "cod_subtipo_rest": "ADUA", "nom_subtipo_res": "Aduana", "subtipo_tipo": "ESP_PUB" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 60, "cod_subtipo_rest": "TRIN", "nom_subtipo_res": "Trinchera", "subtipo_tipo": "FORT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 61, "cod_subtipo_rest": "LAGA", "nom_subtipo_res": "Lagar", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 62, "cod_subtipo_rest": "POZ_CONTR", "nom_subtipo_res": "Pozo contrapeso", "subtipo_tipo": "FORT" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 62, "cod_subtipo_rest": "POZ_CONTR", "nom_subtipo_res": "Pozo contrapeso", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 63, "cod_subtipo_rest": "VIVIE", "nom_subtipo_res": "Vivienda", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 64, "cod_subtipo_rest": "TEST", "nom_subtipo_res": "Testar", "subtipo_tipo": "ESP_ART" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 65, "cod_subtipo_rest": "CORR", "nom_subtipo_res": "Corral", "subtipo_tipo": "ESP_DOM" }, "geometry": null }
 ]
 }
