@@ -16,6 +16,7 @@
 { "type": "Feature", "properties": { "fid": 57, "cod_fase": "MED_MUD", "nom_fase": "Medieval Mudéjar" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 58, "cod_fase": "MED_JUD", "nom_fase": "Medieval Judío" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 59, "cod_fase": "MODERN", "nom_fase": "Moderno" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 60, "cod_fase": "CONTEM", "nom_fase": "Contemporáneo" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 60, "cod_fase": "CONTEM", "nom_fase": "Contemporáneo" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 61, "cod_fase": "INDETER", "nom_fase": "Indeterminado" }, "geometry": null }
 ]
 }

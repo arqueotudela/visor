@@ -65,6 +65,7 @@
 { "type": "Feature", "properties": { "fid": 62, "cod_subtipo_rest": "POZ_CONTR", "nom_subtipo_res": "Pozo contrapeso", "subtipo_tipo": "FORT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 63, "cod_subtipo_rest": "VIVIE", "nom_subtipo_res": "Vivienda", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 64, "cod_subtipo_rest": "TEST", "nom_subtipo_res": "Testar", "subtipo_tipo": "ESP_ART" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 65, "cod_subtipo_rest": "CORR", "nom_subtipo_res": "Corral", "subtipo_tipo": "ESP_DOM" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 65, "cod_subtipo_rest": "CORR", "nom_subtipo_res": "Corral", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 66, "cod_subtipo_rest": "RECi", "nom_subtipo_res": "Recinto", "subtipo_tipo": "FORT" }, "geometry": null }
 ]
 }
