@@ -66,6 +66,14 @@
 { "type": "Feature", "properties": { "fid": 63, "cod_subtipo_rest": "VIVIE", "nom_subtipo_res": "Vivienda", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 64, "cod_subtipo_rest": "TEST", "nom_subtipo_res": "Testar", "subtipo_tipo": "ESP_ART" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 65, "cod_subtipo_rest": "CORR", "nom_subtipo_res": "Corral", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 66, "cod_subtipo_rest": "RECi", "nom_subtipo_res": "Recinto", "subtipo_tipo": "FORT" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 66, "cod_subtipo_rest": "RECi", "nom_subtipo_res": "Recinto", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 67, "cod_subtipo_rest": "DEF_QUE", "nom_subtipo_res": "Muro defensa Queiles", "subtipo_tipo": "INFRA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 68, "cod_subtipo_rest": "PUERT", "nom_subtipo_res": "Puerta ciudad", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 69, "cod_subtipo_rest": "FERRE", "nom_subtipo_res": "Ferrerías", "subtipo_tipo": "ESP_ART" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 70, "cod_subtipo_rest": "HUER", "nom_subtipo_res": "Huerta", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 71, "cod_subtipo_rest": "ALFA_MA", "nom_subtipo_res": "Material Alfar", "subtipo_tipo": "ESP_ART" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 72, "cod_subtipo_rest": "SUEL_CAN", "nom_subtipo_res": "Suelo de cantos", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 73, "cod_subtipo_rest": "DESAG", "nom_subtipo_res": "Desagüe", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 74, "cod_subtipo_rest": "HOYO_EXTR", "nom_subtipo_res": "Hoyo extracción arcillas-tierras", "subtipo_tipo": "ESP_DOM" }, "geometry": null }
 ]
 }
