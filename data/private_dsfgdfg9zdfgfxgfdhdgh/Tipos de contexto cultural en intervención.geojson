@@ -179,6 +179,27 @@
 { "type": "Feature", "properties": { "fid": 175, "numero_int": 67, "cod_con_cul": "AND_MUS" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 176, "numero_int": 67, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 177, "numero_int": 67, "cod_con_cul": "MODE" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 178, "numero_int": 67, "cod_con_cul": "CONT" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 178, "numero_int": 67, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 179, "numero_int": 68, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 180, "numero_int": 68, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 181, "numero_int": 68, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 182, "numero_int": 69, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 183, "numero_int": 69, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 184, "numero_int": 70, "cod_con_cul": "ROMA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 185, "numero_int": 70, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 186, "numero_int": 70, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 187, "numero_int": 70, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 188, "numero_int": 70, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 189, "numero_int": 71, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 190, "numero_int": 71, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 191, "numero_int": 71, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 192, "numero_int": 71, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 193, "numero_int": 72, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 194, "numero_int": 72, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 195, "numero_int": 73, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 196, "numero_int": 73, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 197, "numero_int": 73, "cod_con_cul": "MODE" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 198, "numero_int": 73, "cod_con_cul": "CONT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 199, "numero_int": 74, "cod_con_cul": "MED_CRI" }, "geometry": null }
 ]
 }

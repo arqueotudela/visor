@@ -11,6 +11,8 @@
 { "type": "Feature", "properties": { "fid": 7, "cod_crono": "MED_CRI", "nom_crono": "Medieval Cristiana" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 8, "cod_crono": "BAJ_MED", "nom_crono": "Bajomedieval" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 9, "cod_crono": "MODE", "nom_crono": "Moderna" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 10, "cod_crono": "CONT", "nom_crono": "Contemporánea" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 10, "cod_crono": "CONT", "nom_crono": "Contemporánea" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 11, "cod_crono": "INDE", "nom_crono": "Indeterminada" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 12, "cod_crono": "ROM_REP", "nom_crono": "Romana Republicana" }, "geometry": null }
 ]
 }

@@ -74,6 +74,8 @@
 { "type": "Feature", "properties": { "fid": 71, "cod_subtipo_rest": "ALFA_MA", "nom_subtipo_res": "Material Alfar", "subtipo_tipo": "ESP_ART" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 72, "cod_subtipo_rest": "SUEL_CAN", "nom_subtipo_res": "Suelo de cantos", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 73, "cod_subtipo_rest": "DESAG", "nom_subtipo_res": "Desagüe", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 74, "cod_subtipo_rest": "HOYO_EXTR", "nom_subtipo_res": "Hoyo extracción arcillas-tierras", "subtipo_tipo": "ESP_DOM" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 74, "cod_subtipo_rest": "HOYO_EXTR", "nom_subtipo_res": "Hoyo extracción arcillas-tierras", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 75, "cod_subtipo_rest": "CUAR", "nom_subtipo_res": "Cuartel", "subtipo_tipo": "FORT" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 76, "cod_subtipo_rest": "TALLER_ART", "nom_subtipo_res": "Talleres artesanos", "subtipo_tipo": "ESP_ART" }, "geometry": null }
 ]
 }
