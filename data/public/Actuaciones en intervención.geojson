@@ -102,6 +102,27 @@
 { "type": "Feature", "properties": { "fid": 99, "numero_int": 72, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 100, "numero_int": 73, "cod_act": "EXCA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 101, "numero_int": 73, "cod_act": "SOND" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 102, "numero_int": 74, "cod_act": "SEG_ARQ" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 102, "numero_int": 74, "cod_act": "SEG_ARQ" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 103, "numero_int": 75, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 104, "numero_int": 75, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 105, "numero_int": 76, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 106, "numero_int": 77, "cod_act": "SEG_ARQ" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 107, "numero_int": 78, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 108, "numero_int": 79, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 109, "numero_int": 79, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 110, "numero_int": 81, "cod_act": "SEG_ARQ" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 111, "numero_int": 82, "cod_act": "OTROS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 112, "numero_int": 83, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 113, "numero_int": 84, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 114, "numero_int": 85, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 115, "numero_int": 86, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 116, "numero_int": 87, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 117, "numero_int": 88, "cod_act": "SEG_ARQ" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 118, "numero_int": 89, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 119, "numero_int": 90, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 120, "numero_int": 93, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 121, "numero_int": 93, "cod_act": "EXCA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 122, "numero_int": 92, "cod_act": "SOND" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 123, "numero_int": 92, "cod_act": "EXCA" }, "geometry": null }
 ]
 }

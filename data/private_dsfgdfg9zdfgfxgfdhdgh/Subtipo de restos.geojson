@@ -11,7 +11,7 @@
 { "type": "Feature", "properties": { "fid": 7, "cod_subtipo_rest": "BASI", "nom_subtipo_res": "Basílicas", "subtipo_tipo": "EDI_REL" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 8, "cod_subtipo_rest": "BODE", "nom_subtipo_res": "Bodega", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 9, "cod_subtipo_rest": "CALL", "nom_subtipo_res": "Calle", "subtipo_tipo": "ESP_PUB" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 10, "cod_subtipo_rest": "CAMP", "nom_subtipo_res": "Campamento", "subtipo_tipo": "ESP_PUB" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 10, "cod_subtipo_rest": "CAMP", "nom_subtipo_res": "Campamento", "subtipo_tipo": "FORT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 11, "cod_subtipo_rest": "CANA", "nom_subtipo_res": "Canal", "subtipo_tipo": "INFRA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 12, "cod_subtipo_rest": "CASA", "nom_subtipo_res": "Casa", "subtipo_tipo": "VIV" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 13, "cod_subtipo_rest": "CAST", "nom_subtipo_res": "Castillo", "subtipo_tipo": "FORT" }, "geometry": null },
@@ -76,6 +76,8 @@
 { "type": "Feature", "properties": { "fid": 73, "cod_subtipo_rest": "DESAG", "nom_subtipo_res": "Desagüe", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 74, "cod_subtipo_rest": "HOYO_EXTR", "nom_subtipo_res": "Hoyo extracción arcillas-tierras", "subtipo_tipo": "ESP_DOM" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 75, "cod_subtipo_rest": "CUAR", "nom_subtipo_res": "Cuartel", "subtipo_tipo": "FORT" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 76, "cod_subtipo_rest": "TALLER_ART", "nom_subtipo_res": "Talleres artesanos", "subtipo_tipo": "ESP_ART" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 76, "cod_subtipo_rest": "TALLER_ART", "nom_subtipo_res": "Talleres artesanos", "subtipo_tipo": "ESP_ART" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 77, "cod_subtipo_rest": "MURO_AT", "nom_subtipo_res": "Muro de aterrazamiento", "subtipo_tipo": "INFRA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 78, "cod_subtipo_rest": "TENE", "nom_subtipo_res": "Tenerias", "subtipo_tipo": "ESP_ART" }, "geometry": null }
 ]
 }
