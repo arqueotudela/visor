@@ -57,7 +57,6 @@
 { "type": "Feature", "properties": { "fid": 53, "numero_int": 19, "cod_con_cul": "MODE" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 54, "numero_int": 19, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 55, "numero_int": 20, "cod_con_cul": "MED_CRI" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 56, "numero_int": 21, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 57, "numero_int": 22, "cod_con_cul": "MED_JUD" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 58, "numero_int": 22, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 59, "numero_int": 22, "cod_con_cul": "MODE" }, "geometry": null },

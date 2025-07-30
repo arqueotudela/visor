@@ -29,8 +29,6 @@
 { "type": "Feature", "properties": { "fid": 26, "numero_int": 18, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 27, "numero_int": 19, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 28, "numero_int": 20, "cod_act": "EXCA" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 29, "numero_int": 21, "cod_act": "SOND" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 30, "numero_int": 21, "cod_act": "SEG_ARQ" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 31, "numero_int": 22, "cod_act": "EXCA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 32, "numero_int": 22, "cod_act": "OTROS" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 33, "numero_int": 22, "cod_act": "EXCA" }, "geometry": null },
