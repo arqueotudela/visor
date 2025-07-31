@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "name": "Tipos de contexto cultural en intervención",
 "features": [
-{ "type": "Feature", "properties": { "fid": 1, "numero_int": 10, "cod_con_cul": "AND_MUS" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 2, "numero_int": 27, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 3, "numero_int": 66, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 4, "numero_int": 81, "cod_con_cul": "MED_CRI" }, "geometry": null },
@@ -24,9 +23,6 @@
 { "type": "Feature", "properties": { "fid": 20, "numero_int": 8, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 21, "numero_int": 9, "cod_con_cul": "MODE" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 22, "numero_int": 9, "cod_con_cul": "CONT" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 23, "numero_int": 10, "cod_con_cul": "E_H_II" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 24, "numero_int": 10, "cod_con_cul": "ROMA" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 25, "numero_int": 10, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 26, "numero_int": 11, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 27, "numero_int": 11, "cod_con_cul": "MED_JUD" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 28, "numero_int": 12, "cod_con_cul": "MED_CRI" }, "geometry": null },
@@ -76,7 +72,6 @@
 { "type": "Feature", "properties": { "fid": 73, "numero_int": 26, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 74, "numero_int": 26, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 75, "numero_int": 27, "cod_con_cul": "AND_MUS" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 76, "numero_int": 27, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 77, "numero_int": 27, "cod_con_cul": "MODE" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 78, "numero_int": 28, "cod_con_cul": "AND_MUS" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 79, "numero_int": 28, "cod_con_cul": "MED_CRI" }, "geometry": null },
@@ -122,7 +117,7 @@
 { "type": "Feature", "properties": { "fid": 119, "numero_int": 45, "cod_con_cul": "E_H_I" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 120, "numero_int": 45, "cod_con_cul": "ROMA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 121, "numero_int": 45, "cod_con_cul": "AND_MUS" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 122, "numero_int": 45, "cod_con_cul": "AND_JUD" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 122, "numero_int": 45, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 123, "numero_int": 45, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 124, "numero_int": 3, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 125, "numero_int": 3, "cod_con_cul": "MODE" }, "geometry": null },
@@ -248,6 +243,10 @@
 { "type": "Feature", "properties": { "fid": 245, "numero_int": 80, "cod_con_cul": "MODE" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 246, "numero_int": 91, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 247, "numero_int": 1, "cod_con_cul": "MED_CRI" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 248, "numero_int": 2, "cod_con_cul": "MED_CRI" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 248, "numero_int": 2, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 249, "numero_int": 10, "cod_con_cul": "E_H_II" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 250, "numero_int": 10, "cod_con_cul": "ROMA" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 251, "numero_int": 10, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 252, "numero_int": 10, "cod_con_cul": "MED_CRI" }, "geometry": null }
 ]
 }
