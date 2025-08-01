@@ -44,25 +44,25 @@
 			"name": "Murallas de Tudela",
 			"geojson": "Murallas de Tudela.geojson",
 			"sld": "Murallas de Tudela.sld",
-			"visible": true,			
+			"visible": true.			
 		},
 		{
 			"name": "Zonas PEPRI",
 			"geojson": "Zonas PEPRI.geojson",
 			"sld": "Zonas PEPRI.sld",
-			"visible": true,			
+			"visible": true.			
 		},
 		{
 			"name": "Término municipal",
 			"geojson": "Término municipal.geojson",
 			"sld": "Término municipal.sld",
-			"visible": true,			
+			"visible": true.			
 		},
 		{
 			"name": "Casco urbano",
 			"geojson": "Casco urbano.geojson",
 			"sld": "Casco urbano.sld",
-			"visible": true,			
+			"visible": true.		
 		}
 	]
 }
