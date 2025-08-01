@@ -228,7 +228,6 @@
 { "type": "Feature", "properties": { "fid": 230, "numero_int": 86, "cod_con_cul": "CONT" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 231, "numero_int": 88, "cod_con_cul": "AND_MUS" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 232, "numero_int": 90, "cod_con_cul": "MED_CRI" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 233, "numero_int": 93, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 234, "numero_int": 92, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 235, "numero_int": 65, "cod_con_cul": "MED_CRI" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 236, "numero_int": 65, "cod_con_cul": "MODE" }, "geometry": null },
@@ -247,6 +246,9 @@
 { "type": "Feature", "properties": { "fid": 249, "numero_int": 10, "cod_con_cul": "E_H_II" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 250, "numero_int": 10, "cod_con_cul": "ROMA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 251, "numero_int": 10, "cod_con_cul": "AND_MUS" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 252, "numero_int": 10, "cod_con_cul": "MED_CRI" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 252, "numero_int": 10, "cod_con_cul": "MED_CRI" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 253, "numero_int": 74, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 254, "numero_int": 92, "cod_con_cul": "AND_MUS" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 255, "numero_int": 93, "cod_con_cul": "MED_CRI" }, "geometry": null }
 ]
 }
