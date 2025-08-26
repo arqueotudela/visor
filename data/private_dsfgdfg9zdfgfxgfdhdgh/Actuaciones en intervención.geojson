@@ -2,7 +2,6 @@
 "type": "FeatureCollection",
 "name": "Actuaciones en intervención",
 "features": [
-{ "type": "Feature", "properties": { "numero_int": 79, "cod_act": "EXCA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 1, "numero_int": 10, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 2, "numero_int": 27, "cod_act": "SOND" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 4, "numero_int": 81, "cod_act": "EXCA" }, "geometry": null },
@@ -132,6 +131,7 @@
 { "type": "Feature", "properties": { "fid": 135, "numero_int": 80, "cod_act": "EXCA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 136, "numero_int": 1, "cod_act": "EXCA" }, "geometry": null },
 { "type": "Feature", "properties": { "fid": 137, "numero_int": 21, "cod_act": "SOND" }, "geometry": null },
-{ "type": "Feature", "properties": { "fid": 138, "numero_int": 21, "cod_act": "SEG_ARQ" }, "geometry": null }
+{ "type": "Feature", "properties": { "fid": 138, "numero_int": 21, "cod_act": "SEG_ARQ" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 139, "numero_int": 79, "cod_act": "EXCA" }, "geometry": null }
 ]
 }
